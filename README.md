@@ -1,3 +1,1 @@
-This is a program that asks the user for the name of a ".lex" or ".set" file.
-If the file is a ".lex" file, it saves it as a ".set". 
-If it is a ".set" file it allows the user to see if the word exists in the .set file. You can use the included _english.set_ file to see if a word exists in the English language.
+This word checker program that takes a _.lex_ file on initialization. The program then takes user input and uses a TRIE to check and see if the input exists within the .lex file. You can use the included _english.lex_ file to see if a word exists in the English language.
